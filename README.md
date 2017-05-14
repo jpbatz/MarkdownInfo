@@ -1,5 +1,27 @@
 # MarkdownInfo
 
+## Navigation Template
+
+### First Page:
+
+| Next |
+|:-----:|
+|[Next Title](./next.md)|
+
+
+### Inner Page:
+
+| Previous | Up | Next |
+|:-----|:-----:|-----:|
+|[Previous Title](./prev.md)|[Up Title](./README.md)|[Next Title](./next.md)|
+
+### Final Page
+
+| Previous | Up |
+|:-----|:-----:|
+|[Previous Title](./prev.md)|[Up Title](./README.md)|
+
+
 ### ARROWS
 :arrow_left:
 :arrow_right:
