@@ -6,7 +6,7 @@
 
 | Next |
 |:-----:|
-|[Next Title](./next.md)|
+|[:arrow_right:](./next.md) |
 
 
 ### Inner Page:
@@ -19,7 +19,7 @@
 
 | Previous | Up |
 |:-----|:-----:|
-|[Previous Title](./prev.md)|[Up Title](./README.md)|
+| [:arrow_left:](./prev.md)|[:arrow_up:](./README.md)|
 
 
 ### ARROWS
