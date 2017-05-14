@@ -15,7 +15,7 @@
 |:-----|:-----:|-----:|
 |[Previous Title](./prev.md)|[Up Title](./README.md)|[Next Title](./next.md)|
 
-### Final Page
+### Final Page:
 
 | Previous | Up |
 |:-----|:-----:|
@@ -27,6 +27,8 @@
 :arrow_right:
 :arrow_up:
 :arrow_down:
+:arrow_backward:
+:arrow_forward:
 
 
 :bowtie:
